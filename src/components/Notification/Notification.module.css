@@ -1,0 +1,74 @@
+.notificationCard {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+  position: relative;
+}
+
+.unread {
+  border-left: 3px solid var(--primary);
+  background: rgba(var(--primary-rgb), 0.04);
+}
+
+.iconContainer {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.like {
+  color: var(--accent);
+}
+
+.comment {
+  color: var(--success);
+}
+
+.mention {
+  color: var(--primary);
+}
+
+.follow {
+  color: var(--secondary);
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.text {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--color-text-main);
+  margin-bottom: 0.25rem;
+}
+
+.user {
+  font-weight: 700;
+}
+
+.time {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.indicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--primary);
+  box-shadow: 0 0 8px var(--primary);
+  flex-shrink: 0;
+}

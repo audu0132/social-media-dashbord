@@ -1,0 +1,15 @@
+.card {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  transition: transform var(--transition-smooth), border-color var(--transition-smooth), box-shadow var(--transition-smooth);
+}
+
+.hoverable:hover {
+  border-color: rgba(var(--primary-rgb), 0.25);
+  box-shadow: 0 8px 30px 0 rgba(var(--primary-rgb), 0.08);
+}
