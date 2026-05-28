@@ -135,10 +135,11 @@ The `tests/Post.test.jsx` test suite asserts:
 
 Insert screenshots displaying these states in this section:
 
-*   **Desktop Dashboard View**: *( `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/929e46d4-138c-47ac-a5d9-c623f3daffe3" />
-`)*
+*   **Desktop Dashboard View**: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbb5aae7-e809-46e9-863b-83a115bbc619" />
+
 *   **Mobile Dashboard View**: *(`/public/screenshots/mobile_dashboard.png`)*
-*   **Notifications View**: *(`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de8db001-b364-4a5e-bfb7-895a6789e89a" />
+*   **Notifications View**:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/588e75fe-d4ed-442d-aede-9f554be7ac32" />
+
 `)*
-*   **Light Mode Toggle**: *(`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaad79c2-0ba2-46a1-a1f7-cf382b9c0285" />
-`)*
+*   **Light Mode Toggle**: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4940b3d2-1548-4a3c-a011-9d88a0adc381" />
+
