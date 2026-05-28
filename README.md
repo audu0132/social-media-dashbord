@@ -135,7 +135,10 @@ The `tests/Post.test.jsx` test suite asserts:
 
 Insert screenshots displaying these states in this section:
 
-*   **Desktop Dashboard View**: *(Add `/public/screenshots/desktop_dashboard.png`)*
-*   **Mobile Dashboard View**: *(Add `/public/screenshots/mobile_dashboard.png`)*
-*   **Notifications View**: *(Add `/public/screenshots/notifications.png`)*
-*   **Light Mode Toggle**: *(Add `/public/screenshots/light_mode.png`)*
+*   **Desktop Dashboard View**: *( `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/929e46d4-138c-47ac-a5d9-c623f3daffe3" />
+`)*
+*   **Mobile Dashboard View**: *(`/public/screenshots/mobile_dashboard.png`)*
+*   **Notifications View**: *(`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de8db001-b364-4a5e-bfb7-895a6789e89a" />
+`)*
+*   **Light Mode Toggle**: *(`<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaad79c2-0ba2-46a1-a1f7-cf382b9c0285" />
+`)*
